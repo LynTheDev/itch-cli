@@ -1,0 +1,6 @@
+.idea
+
+cmake-build-release
+cmake-build-debug
+
+data/key.txt
